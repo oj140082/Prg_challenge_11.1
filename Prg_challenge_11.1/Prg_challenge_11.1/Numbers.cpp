@@ -12,7 +12,7 @@ Numbers::Numbers(int n)
 {
 	/*const string lessThan20[20] = { "zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine",
 						"ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen",
-						"eighteen", "nineteen" };*/
+						"eighteen", "nineten" };*/
 	string hundred = "hundred";
 	string thousand = "thousand";
 	number = n;
